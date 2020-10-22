@@ -24,3 +24,4 @@ month = gets.to_i
 
 days = get_days(year, month)
 puts "#{year}年#{month}月は#{days}日間あります"
+
